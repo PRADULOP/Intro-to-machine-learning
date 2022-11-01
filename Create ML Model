@@ -1,0 +1,21 @@
+Steps in building ML model
+
+1.Take the Data and create a dataframe
+
+2.Preprocessing-Filtering of Data (Data Cleaning, Encoding, Dropping values, Missing values) [EDA]*
+
+3.Data Visualization
+
+4.Divide into Input and Output (x-i/p, y-o/p)
+
+5.Train and Test Variables*
+
+6.Normalize (Scaling) the data (Inputs only)*
+
+7.Run a Classifier/Regressor/Clusterer
+
+8.Fit the model (Map inputs with output)
+
+9.Predict the output
+
+10.Evaluation: Accuracy score, Confusion Matrix
